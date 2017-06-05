@@ -1,0 +1,2 @@
+# game
+weChat game application
